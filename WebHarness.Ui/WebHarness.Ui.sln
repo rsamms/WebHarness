@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHarness.Ui", "WebHarness.Ui\WebHarness.Ui.csproj", "{8DCB658A-C311-48B3-AB55-ABCE40216D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHarness.Tests.Unit", "WebHarness.Tests.Unit\WebHarness.Tests.Unit.csproj", "{1B5FF9B4-D2A0-4D1E-9C20-8D5B0D3108E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHarness.Tests.Integration", "WebHarness.Tests.Integration\WebHarness.Tests.Integration.csproj", "{0151A124-51A3-458A-84B4-5522C98BB790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHarness.Tests.Ui", "WebHarness.Tests.Ui\WebHarness.Tests.Ui.csproj", "{1D997D97-17EE-4A9F-93BC-58DFB1AFB479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHarness.Domain", "WebHarness.Domain\WebHarness.Domain.csproj", "{116BB30D-F35F-4C02-B34A-39BF6D715A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCB658A-C311-48B3-AB55-ABCE40216D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCB658A-C311-48B3-AB55-ABCE40216D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCB658A-C311-48B3-AB55-ABCE40216D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCB658A-C311-48B3-AB55-ABCE40216D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5FF9B4-D2A0-4D1E-9C20-8D5B0D3108E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5FF9B4-D2A0-4D1E-9C20-8D5B0D3108E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5FF9B4-D2A0-4D1E-9C20-8D5B0D3108E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5FF9B4-D2A0-4D1E-9C20-8D5B0D3108E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0151A124-51A3-458A-84B4-5522C98BB790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0151A124-51A3-458A-84B4-5522C98BB790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0151A124-51A3-458A-84B4-5522C98BB790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0151A124-51A3-458A-84B4-5522C98BB790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D997D97-17EE-4A9F-93BC-58DFB1AFB479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D997D97-17EE-4A9F-93BC-58DFB1AFB479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D997D97-17EE-4A9F-93BC-58DFB1AFB479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D997D97-17EE-4A9F-93BC-58DFB1AFB479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116BB30D-F35F-4C02-B34A-39BF6D715A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116BB30D-F35F-4C02-B34A-39BF6D715A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116BB30D-F35F-4C02-B34A-39BF6D715A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116BB30D-F35F-4C02-B34A-39BF6D715A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
